@@ -1,0 +1,8 @@
+# Local overrides and secrets
+.env
+app/config.local.php
+# Generated exports, backups and logs
+*.log
+storage/
+backups/
+.DS_Store
